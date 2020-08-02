@@ -1,0 +1,3 @@
+# -Indexes disallows users from accessing the directory
+# +Indexes is the opposite and allows it
+Options -Indexes
